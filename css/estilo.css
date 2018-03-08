@@ -90,7 +90,7 @@ header {
 .busca,
 .menu-departamentos{
     float: left;
-    margin-left: 205px;
+    
 }
 .menu-departamentos{
     clear: left;
@@ -158,6 +158,8 @@ header {
 
 footer	{
     background-image:	url(../../img/fundo-rodape.png);
+    
+    
 }
 .social a {
     /*	tamanho	da	imagem	*/
@@ -182,16 +184,17 @@ footer	{
 }
 footer	{
     padding: 20px 0;
-    
+   
 }
 footer .container	{
-position:	relative;
+    position:	relative;
+    
 
 }
 .social	{
-position:	absolute;
-top: 12px;
-right:0;}
+    position:	absolute;
+    top: 12px;
+    right:0;}
 
 .social li	{
     float:	left;
